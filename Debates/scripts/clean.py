@@ -2,6 +2,7 @@ import glob, os
 import argparse
 import re
 from pathlib import Path
+import nltk
 from nltk import tokenize
 
 parser = argparse.ArgumentParser()
@@ -20,7 +21,7 @@ for file in glob.glob("*.txt"):
     print(transcript)
     if transcript not in file_set:
         if cur_transcript != "":
-            out_file = open("./conc/" + cur_transcript + ".txt", "w")
+            out_file = open("/root/SpeechLab2020/Debates/" + cur_transcript + ".txt", "w")
             for s in tokenize.sent_tokenize(cur_out):
                 out_file.write("%s\n" % s)
         cur_transcript = transcript
@@ -30,4 +31,5 @@ for file in glob.glob("*.txt"):
         seg = file.read()
         seg = re.sub(r"^\[INAUDIBLE\s\d{2}:\d{2}:\d{2}\]$", "aa", seg)
         seg = re.sub(r"^\[laughter\]$", "", seg)
+        seg = re.sub("Etc.", "", seg)
         cur_out += seg + "\n"
