@@ -5,7 +5,7 @@ import pickle
 sad = torch.hub.load('pyannote/pyannote-audio', 'sad_ami')
 scd = torch.hub.load('pyannote/pyannote-audio', 'scd_ami')
 
-os.chdir("/proj/afosr/corpora/debates/e_audio_copy/E audio")
+os.chdir("/root/SpeechLab2020/Debates/demos/")
 for file in glob.glob("*.wav"):
     print(file)
     test_file = {'uri': 'filename', 'audio': file }
@@ -21,5 +21,4 @@ for file in glob.glob("*.wav"):
     peak = Peak(alpha=0.10, min_duration=0.10, scale='relative', log_scale=True)
     partition = peak.apply(scd_scores, dimension=1)
     f_out_partition = file.split('.')[0] + "_part.pkl"
-    pickle.dump(partition, open(f_out_partition, "wb"))
-
+    pickle.dump(partition, open(f_out_partition, "wb"), protocol=2)
