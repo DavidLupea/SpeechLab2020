@@ -1,4 +1,11 @@
 import re
+
+import pickle
+
+# obj = pickle.load(open("demos/E17SF01_part.pkl", 'rb'))  Unsupported pickle type 3
+obj = pickle.load(open("demos/E17SF01_speech.pkl", 'rb'))
+print(obj)
+
 # First 1:11 of video only speaker 1
 #ffmpeg -ss 00:00:00 -t 00:01:11 -i demos/E17SF01.mp3 output.mp3
 # python3 -m aeneas.tools.execute_task demos/E17SF01.mp3 outputs/cleaned_transcript.txt "task_language=eng|os_task_file_format=json|is_text_type=plain" map.json
@@ -35,4 +42,4 @@ def reformat_transcript(fname):
         f_out.write(a + "\n")
     f_out.write(seg)
 
-reformat_transcript("demos/E17SF01.txt")
+# reformat_transcript("demos/E17SF01.txt")
