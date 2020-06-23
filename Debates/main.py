@@ -1,29 +1,9 @@
 import re
-
+import os
 import pickle
 
-# obj = pickle.load(open("demos/E17SF01_part.pkl", 'rb'))  Unsupported pickle type 3
-obj = pickle.load(open("demos/E17SF01_speech.pkl", 'rb'))
-print(obj)
-
-# First 1:11 of video only speaker 1
-#ffmpeg -ss 00:00:00 -t 00:01:11 -i demos/E17SF01.mp3 output.mp3
-# python3 -m aeneas.tools.execute_task demos/E17SF01.mp3 outputs/cleaned_transcript.txt "task_language=eng|os_task_file_format=json|is_text_type=plain" map.json
-
-def formatfile(fname):
-    # "outputs/speaker1_first.txt"
-    f = open(fname)
-    text = f.read()
-
-    portions = re.split(",.", text)
-
-    f2 = open(fname, "w")
-    f2.write("1\n")
-    for a in portions:
-        f2.write(a + "\n")
-
 def reformat_transcript(fname):
-    f_in = open(fname)
+    f_in = open("demos/" + fname)
     seg = f_in.read()
     seg = re.sub(r'\[[A-Za-z]*\]', '', seg)
     seg = re.sub(r"^\[INAUDIBLE\s\d{2}:\d{2}:\d{2}\]$", "aa", seg)
@@ -35,11 +15,29 @@ def reformat_transcript(fname):
 
     portions = re.split(",.", seg)
 
-    f_out = open("outputs/cleaned_transcript.txt", "w")
+    f_out = open("outputs/" + fname.split(".")[0] + "_cleaned.txt", "w")
     f_out.write("1\n")
 
     for a in portions:
         f_out.write(a + "\n")
     f_out.write(seg)
 
-# reformat_transcript("demos/E17SF01.txt")
+def reformat_batch(dir, debate_name):
+    files = os.listdir(dir)
+    speaker_transcripts = re.findall(debate_name + "_S" + r'\d_\D.txt', str(files))
+    for x in speaker_transcripts:
+        print("Reformatting: " + x)
+        reformat_transcript(x)
+
+def batch_align(dir, debate_name):
+    files = os.listdir(dir)
+
+    for i in range(1, 9):
+        cur_txt_file = re.findall(debate_name + "_S" + str(i) + r'_\D_cleaned.txt', str(files))[0]
+        cur_audio_file = debate_name + "_" + str(i - 1) + ".mp3"
+        print("DEBATE: " + debate_name + "; SPEAKER: " + str(i))
+
+        os.system('python3 -m aeneas.tools.execute_task ' + dir + cur_audio_file + ' ' + dir + cur_txt_file + ' "task_language=eng|os_task_file_format=json|is_text_type=plain" ' + dir +  debate_name + "_S" + str(i) +'_map.json')
+
+# reformat_batch("demos/", "E17SF01")
+batch_align("outputs/", "E17SF01")
