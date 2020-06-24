@@ -43,7 +43,7 @@
   {
    "begin": "10.720",
    "children": [],
-   "end": "18.840",
+   "end": "22.120",
    "id": "f000005",
    "language": "eng",
    "lines": [
@@ -51,9 +51,9 @@
    ]
   },
   {
-   "begin": "18.840",
+   "begin": "22.120",
    "children": [],
-   "end": "23.440",
+   "end": "32.920",
    "id": "f000006",
    "language": "eng",
    "lines": [
@@ -61,9 +61,9 @@
    ]
   },
   {
-   "begin": "23.440",
+   "begin": "32.920",
    "children": [],
-   "end": "29.520",
+   "end": "44.200",
    "id": "f000007",
    "language": "eng",
    "lines": [
@@ -71,9 +71,9 @@
    ]
   },
   {
-   "begin": "29.520",
+   "begin": "44.200",
    "children": [],
-   "end": "53.840",
+   "end": "84.720",
    "id": "f000008",
    "language": "eng",
    "lines": [
@@ -81,9 +81,9 @@
    ]
   },
   {
-   "begin": "53.840",
+   "begin": "84.720",
    "children": [],
-   "end": "65.800",
+   "end": "123.120",
    "id": "f000009",
    "language": "eng",
    "lines": [
@@ -91,9 +91,9 @@
    ]
   },
   {
-   "begin": "65.800",
+   "begin": "123.120",
    "children": [],
-   "end": "82.480",
+   "end": "178.080",
    "id": "f000010",
    "language": "eng",
    "lines": [
@@ -101,9 +101,9 @@
    ]
   },
   {
-   "begin": "82.480",
+   "begin": "178.080",
    "children": [],
-   "end": "106.920",
+   "end": "231.080",
    "id": "f000011",
    "language": "eng",
    "lines": [
@@ -111,9 +111,9 @@
    ]
   },
   {
-   "begin": "106.920",
+   "begin": "231.080",
    "children": [],
-   "end": "112.200",
+   "end": "235.080",
    "id": "f000012",
    "language": "eng",
    "lines": [
@@ -121,9 +121,9 @@
    ]
   },
   {
-   "begin": "112.200",
+   "begin": "235.080",
    "children": [],
-   "end": "116.920",
+   "end": "243.520",
    "id": "f000013",
    "language": "eng",
    "lines": [
@@ -131,9 +131,9 @@
    ]
   },
   {
-   "begin": "116.920",
+   "begin": "243.520",
    "children": [],
-   "end": "128.560",
+   "end": "273.760",
    "id": "f000014",
    "language": "eng",
    "lines": [
@@ -141,9 +141,9 @@
    ]
   },
   {
-   "begin": "128.560",
+   "begin": "273.760",
    "children": [],
-   "end": "145.400",
+   "end": "291.160",
    "id": "f000015",
    "language": "eng",
    "lines": [
@@ -151,9 +151,9 @@
    ]
   },
   {
-   "begin": "145.400",
+   "begin": "291.160",
    "children": [],
-   "end": "158.200",
+   "end": "335.960",
    "id": "f000016",
    "language": "eng",
    "lines": [
@@ -161,9 +161,9 @@
    ]
   },
   {
-   "begin": "158.200",
+   "begin": "335.960",
    "children": [],
-   "end": "186.040",
+   "end": "410.000",
    "id": "f000017",
    "language": "eng",
    "lines": [
@@ -171,9 +171,9 @@
    ]
   },
   {
-   "begin": "186.040",
+   "begin": "410.000",
    "children": [],
-   "end": "203.760",
+   "end": "430.560",
    "id": "f000018",
    "language": "eng",
    "lines": [
@@ -181,9 +181,9 @@
    ]
   },
   {
-   "begin": "203.760",
+   "begin": "430.560",
    "children": [],
-   "end": "220.920",
+   "end": "499.440",
    "id": "f000019",
    "language": "eng",
    "lines": [
@@ -191,9 +191,9 @@
    ]
   },
   {
-   "begin": "220.920",
+   "begin": "499.440",
    "children": [],
-   "end": "233.200",
+   "end": "526.560",
    "id": "f000020",
    "language": "eng",
    "lines": [
@@ -201,9 +201,9 @@
    ]
   },
   {
-   "begin": "233.200",
+   "begin": "526.560",
    "children": [],
-   "end": "239.200",
+   "end": "542.800",
    "id": "f000021",
    "language": "eng",
    "lines": [
@@ -211,9 +211,9 @@
    ]
   },
   {
-   "begin": "239.200",
+   "begin": "542.800",
    "children": [],
-   "end": "242.240",
+   "end": "548.320",
    "id": "f000022",
    "language": "eng",
    "lines": [
@@ -221,9 +221,9 @@
    ]
   },
   {
-   "begin": "242.240",
+   "begin": "548.320",
    "children": [],
-   "end": "243.280",
+   "end": "550.800",
    "id": "f000023",
    "language": "eng",
    "lines": [
@@ -231,9 +231,9 @@
    ]
   },
   {
-   "begin": "243.280",
+   "begin": "550.800",
    "children": [],
-   "end": "248.360",
+   "end": "560.720",
    "id": "f000024",
    "language": "eng",
    "lines": [
@@ -241,9 +241,9 @@
    ]
   },
   {
-   "begin": "248.360",
+   "begin": "560.720",
    "children": [],
-   "end": "250.000",
+   "end": "564.680",
    "id": "f000025",
    "language": "eng",
    "lines": [
@@ -251,9 +251,9 @@
    ]
   },
   {
-   "begin": "250.000",
+   "begin": "564.680",
    "children": [],
-   "end": "267.520",
+   "end": "605.840",
    "id": "f000026",
    "language": "eng",
    "lines": [
@@ -261,9 +261,9 @@
    ]
   },
   {
-   "begin": "267.520",
+   "begin": "605.840",
    "children": [],
-   "end": "279.960",
+   "end": "619.640",
    "id": "f000027",
    "language": "eng",
    "lines": [
@@ -271,9 +271,9 @@
    ]
   },
   {
-   "begin": "279.960",
+   "begin": "619.640",
    "children": [],
-   "end": "290.920",
+   "end": "631.400",
    "id": "f000028",
    "language": "eng",
    "lines": [
@@ -281,9 +281,9 @@
    ]
   },
   {
-   "begin": "290.920",
+   "begin": "631.400",
    "children": [],
-   "end": "302.560",
+   "end": "643.400",
    "id": "f000029",
    "language": "eng",
    "lines": [
@@ -291,9 +291,9 @@
    ]
   },
   {
-   "begin": "302.560",
+   "begin": "643.400",
    "children": [],
-   "end": "309.280",
+   "end": "655.960",
    "id": "f000030",
    "language": "eng",
    "lines": [
@@ -301,9 +301,9 @@
    ]
   },
   {
-   "begin": "309.280",
+   "begin": "655.960",
    "children": [],
-   "end": "313.120",
+   "end": "663.920",
    "id": "f000031",
    "language": "eng",
    "lines": [
@@ -311,9 +311,9 @@
    ]
   },
   {
-   "begin": "313.120",
+   "begin": "663.920",
    "children": [],
-   "end": "319.360",
+   "end": "671.240",
    "id": "f000032",
    "language": "eng",
    "lines": [
@@ -321,9 +321,9 @@
    ]
   },
   {
-   "begin": "319.360",
+   "begin": "671.240",
    "children": [],
-   "end": "344.120",
+   "end": "718.040",
    "id": "f000033",
    "language": "eng",
    "lines": [
@@ -331,9 +331,9 @@
    ]
   },
   {
-   "begin": "344.120",
+   "begin": "718.040",
    "children": [],
-   "end": "356.400",
+   "end": "734.520",
    "id": "f000034",
    "language": "eng",
    "lines": [
@@ -341,9 +341,9 @@
    ]
   },
   {
-   "begin": "356.400",
+   "begin": "734.520",
    "children": [],
-   "end": "361.440",
+   "end": "747.840",
    "id": "f000035",
    "language": "eng",
    "lines": [
@@ -351,9 +351,9 @@
    ]
   },
   {
-   "begin": "361.440",
+   "begin": "747.840",
    "children": [],
-   "end": "364.440",
+   "end": "759.520",
    "id": "f000036",
    "language": "eng",
    "lines": [
@@ -361,9 +361,9 @@
    ]
   },
   {
-   "begin": "364.440",
+   "begin": "759.520",
    "children": [],
-   "end": "385.200",
+   "end": "805.520",
    "id": "f000037",
    "language": "eng",
    "lines": [
@@ -371,9 +371,9 @@
    ]
   },
   {
-   "begin": "385.200",
+   "begin": "805.520",
    "children": [],
-   "end": "388.800",
+   "end": "811.400",
    "id": "f000038",
    "language": "eng",
    "lines": [
@@ -381,9 +381,9 @@
    ]
   },
   {
-   "begin": "388.800",
+   "begin": "811.400",
    "children": [],
-   "end": "393.240",
+   "end": "823.120",
    "id": "f000039",
    "language": "eng",
    "lines": [
@@ -391,9 +391,9 @@
    ]
   },
   {
-   "begin": "393.240",
+   "begin": "823.120",
    "children": [],
-   "end": "423.200",
+   "end": "874.040",
    "id": "f000040",
    "language": "eng",
    "lines": [
@@ -401,9 +401,9 @@
    ]
   },
   {
-   "begin": "423.200",
+   "begin": "874.040",
    "children": [],
-   "end": "436.320",
+   "end": "888.560",
    "id": "f000041",
    "language": "eng",
    "lines": [
@@ -411,9 +411,9 @@
    ]
   },
   {
-   "begin": "436.320",
+   "begin": "888.560",
    "children": [],
-   "end": "452.240",
+   "end": "914.160",
    "id": "f000042",
    "language": "eng",
    "lines": [
@@ -421,9 +421,9 @@
    ]
   },
   {
-   "begin": "452.240",
+   "begin": "914.160",
    "children": [],
-   "end": "482.760",
+   "end": "962.800",
    "id": "f000043",
    "language": "eng",
    "lines": [
@@ -431,9 +431,9 @@
    ]
   },
   {
-   "begin": "482.760",
+   "begin": "962.800",
    "children": [],
-   "end": "486.960",
+   "end": "972.520",
    "id": "f000044",
    "language": "eng",
    "lines": [
@@ -441,9 +441,9 @@
    ]
   },
   {
-   "begin": "486.960",
+   "begin": "972.520",
    "children": [],
-   "end": "493.280",
+   "end": "983.480",
    "id": "f000045",
    "language": "eng",
    "lines": [
@@ -451,9 +451,9 @@
    ]
   },
   {
-   "begin": "493.280",
+   "begin": "983.480",
    "children": [],
-   "end": "494.920",
+   "end": "984.760",
    "id": "f000046",
    "language": "eng",
    "lines": [
@@ -461,9 +461,9 @@
    ]
   },
   {
-   "begin": "494.920",
+   "begin": "984.760",
    "children": [],
-   "end": "521.080",
+   "end": "1032.920",
    "id": "f000047",
    "language": "eng",
    "lines": [
@@ -471,9 +471,9 @@
    ]
   },
   {
-   "begin": "521.080",
+   "begin": "1032.920",
    "children": [],
-   "end": "535.920",
+   "end": "1068.320",
    "id": "f000048",
    "language": "eng",
    "lines": [
@@ -481,9 +481,9 @@
    ]
   },
   {
-   "begin": "535.920",
+   "begin": "1068.320",
    "children": [],
-   "end": "546.400",
+   "end": "1088.880",
    "id": "f000049",
    "language": "eng",
    "lines": [
@@ -491,9 +491,9 @@
    ]
   },
   {
-   "begin": "546.400",
+   "begin": "1088.880",
    "children": [],
-   "end": "552.880",
+   "end": "1101.440",
    "id": "f000050",
    "language": "eng",
    "lines": [
@@ -501,9 +501,9 @@
    ]
   },
   {
-   "begin": "552.880",
+   "begin": "1101.440",
    "children": [],
-   "end": "567.560",
+   "end": "1120.760",
    "id": "f000051",
    "language": "eng",
    "lines": [
@@ -511,9 +511,9 @@
    ]
   },
   {
-   "begin": "567.560",
+   "begin": "1120.760",
    "children": [],
-   "end": "578.000",
+   "end": "1134.800",
    "id": "f000052",
    "language": "eng",
    "lines": [
@@ -521,9 +521,9 @@
    ]
   },
   {
-   "begin": "578.000",
+   "begin": "1134.800",
    "children": [],
-   "end": "605.360",
+   "end": "1173.000",
    "id": "f000053",
    "language": "eng",
    "lines": [
@@ -531,9 +531,9 @@
    ]
   },
   {
-   "begin": "605.360",
+   "begin": "1173.000",
    "children": [],
-   "end": "605.920",
+   "end": "1174.920",
    "id": "f000054",
    "language": "eng",
    "lines": [
@@ -541,9 +541,9 @@
    ]
   },
   {
-   "begin": "605.920",
+   "begin": "1174.920",
    "children": [],
-   "end": "606.840",
+   "end": "1177.200",
    "id": "f000055",
    "language": "eng",
    "lines": [
@@ -551,9 +551,9 @@
    ]
   },
   {
-   "begin": "606.840",
+   "begin": "1177.200",
    "children": [],
-   "end": "625.640",
+   "end": "1234.560",
    "id": "f000056",
    "language": "eng",
    "lines": [
@@ -561,9 +561,9 @@
    ]
   },
   {
-   "begin": "625.640",
+   "begin": "1234.560",
    "children": [],
-   "end": "626.680",
+   "end": "1238.640",
    "id": "f000057",
    "language": "eng",
    "lines": [
@@ -571,9 +571,9 @@
    ]
   },
   {
-   "begin": "626.680",
+   "begin": "1238.640",
    "children": [],
-   "end": "640.160",
+   "end": "1263.200",
    "id": "f000058",
    "language": "eng",
    "lines": [
@@ -581,9 +581,9 @@
    ]
   },
   {
-   "begin": "640.160",
+   "begin": "1263.200",
    "children": [],
-   "end": "645.520",
+   "end": "1270.240",
    "id": "f000059",
    "language": "eng",
    "lines": [
@@ -591,9 +591,9 @@
    ]
   },
   {
-   "begin": "645.520",
+   "begin": "1270.240",
    "children": [],
-   "end": "650.440",
+   "end": "1276.920",
    "id": "f000060",
    "language": "eng",
    "lines": [
@@ -601,9 +601,9 @@
    ]
   },
   {
-   "begin": "650.440",
+   "begin": "1276.920",
    "children": [],
-   "end": "654.640",
+   "end": "1283.600",
    "id": "f000061",
    "language": "eng",
    "lines": [
@@ -611,9 +611,9 @@
    ]
   },
   {
-   "begin": "654.640",
+   "begin": "1283.600",
    "children": [],
-   "end": "674.640",
+   "end": "1322.840",
    "id": "f000062",
    "language": "eng",
    "lines": [
@@ -621,9 +621,9 @@
    ]
   },
   {
-   "begin": "674.640",
+   "begin": "1322.840",
    "children": [],
-   "end": "676.800",
+   "end": "1327.080",
    "id": "f000063",
    "language": "eng",
    "lines": [
@@ -631,9 +631,9 @@
    ]
   },
   {
-   "begin": "676.800",
+   "begin": "1327.080",
    "children": [],
-   "end": "685.240",
+   "end": "1340.160",
    "id": "f000064",
    "language": "eng",
    "lines": [
@@ -641,9 +641,9 @@
    ]
   },
   {
-   "begin": "685.240",
+   "begin": "1340.160",
    "children": [],
-   "end": "685.960",
+   "end": "1340.960",
    "id": "f000065",
    "language": "eng",
    "lines": [
@@ -651,9 +651,9 @@
    ]
   },
   {
-   "begin": "685.960",
+   "begin": "1340.960",
    "children": [],
-   "end": "686.800",
+   "end": "1342.320",
    "id": "f000066",
    "language": "eng",
    "lines": [
@@ -661,9 +661,9 @@
    ]
   },
   {
-   "begin": "686.800",
+   "begin": "1342.320",
    "children": [],
-   "end": "705.680",
+   "end": "1371.080",
    "id": "f000067",
    "language": "eng",
    "lines": [
@@ -671,9 +671,9 @@
    ]
   },
   {
-   "begin": "705.680",
+   "begin": "1371.080",
    "children": [],
-   "end": "710.800",
+   "end": "1385.640",
    "id": "f000068",
    "language": "eng",
    "lines": [
@@ -681,9 +681,9 @@
    ]
   },
   {
-   "begin": "710.800",
+   "begin": "1385.640",
    "children": [],
-   "end": "711.600",
+   "end": "1387.880",
    "id": "f000069",
    "language": "eng",
    "lines": [
@@ -691,9 +691,9 @@
    ]
   },
   {
-   "begin": "711.600",
+   "begin": "1387.880",
    "children": [],
-   "end": "712.240",
+   "end": "1389.120",
    "id": "f000070",
    "language": "eng",
    "lines": [
@@ -701,9 +701,9 @@
    ]
   },
   {
-   "begin": "712.240",
+   "begin": "1389.120",
    "children": [],
-   "end": "716.000",
+   "end": "1392.480",
    "id": "f000071",
    "language": "eng",
    "lines": [
@@ -711,9 +711,9 @@
    ]
   },
   {
-   "begin": "716.000",
+   "begin": "1392.480",
    "children": [],
-   "end": "720.120",
+   "end": "1399.600",
    "id": "f000072",
    "language": "eng",
    "lines": [
@@ -721,9 +721,9 @@
    ]
   },
   {
-   "begin": "720.120",
+   "begin": "1399.600",
    "children": [],
-   "end": "737.160",
+   "end": "1492.000",
    "id": "f000073",
    "language": "eng",
    "lines": [
@@ -731,9 +731,9 @@
    ]
   },
   {
-   "begin": "737.160",
+   "begin": "1492.000",
    "children": [],
-   "end": "739.080",
+   "end": "1496.040",
    "id": "f000074",
    "language": "eng",
    "lines": [
@@ -741,9 +741,9 @@
    ]
   },
   {
-   "begin": "739.080",
+   "begin": "1496.040",
    "children": [],
-   "end": "747.760",
+   "end": "1505.600",
    "id": "f000075",
    "language": "eng",
    "lines": [
@@ -751,9 +751,9 @@
    ]
   },
   {
-   "begin": "747.760",
+   "begin": "1505.600",
    "children": [],
-   "end": "755.880",
+   "end": "1529.920",
    "id": "f000076",
    "language": "eng",
    "lines": [
@@ -761,9 +761,9 @@
    ]
   },
   {
-   "begin": "755.880",
+   "begin": "1529.920",
    "children": [],
-   "end": "760.880",
+   "end": "1536.600",
    "id": "f000077",
    "language": "eng",
    "lines": [
@@ -771,9 +771,9 @@
    ]
   },
   {
-   "begin": "760.880",
+   "begin": "1536.600",
    "children": [],
-   "end": "761.520",
+   "end": "1537.520",
    "id": "f000078",
    "language": "eng",
    "lines": [
@@ -781,9 +781,9 @@
    ]
   },
   {
-   "begin": "761.520",
+   "begin": "1537.520",
    "children": [],
-   "end": "762.880",
+   "end": "1539.680",
    "id": "f000079",
    "language": "eng",
    "lines": [
@@ -791,9 +791,9 @@
    ]
   },
   {
-   "begin": "762.880",
+   "begin": "1539.680",
    "children": [],
-   "end": "785.800",
+   "end": "1588.920",
    "id": "f000080",
    "language": "eng",
    "lines": [
@@ -801,9 +801,9 @@
    ]
   },
   {
-   "begin": "785.800",
+   "begin": "1588.920",
    "children": [],
-   "end": "806.720",
+   "end": "1653.600",
    "id": "f000081",
    "language": "eng",
    "lines": [
@@ -811,9 +811,9 @@
    ]
   },
   {
-   "begin": "806.720",
+   "begin": "1653.600",
    "children": [],
-   "end": "819.160",
+   "end": "1682.000",
    "id": "f000082",
    "language": "eng",
    "lines": [
@@ -821,9 +821,9 @@
    ]
   },
   {
-   "begin": "819.160",
+   "begin": "1682.000",
    "children": [],
-   "end": "821.160",
+   "end": "1689.880",
    "id": "f000083",
    "language": "eng",
    "lines": [
@@ -831,9 +831,9 @@
    ]
   },
   {
-   "begin": "821.160",
+   "begin": "1689.880",
    "children": [],
-   "end": "825.680",
+   "end": "1706.640",
    "id": "f000084",
    "language": "eng",
    "lines": [
@@ -841,9 +841,9 @@
    ]
   },
   {
-   "begin": "825.680",
+   "begin": "1706.640",
    "children": [],
-   "end": "828.520",
+   "end": "1730.360",
    "id": "f000085",
    "language": "eng",
    "lines": [
@@ -851,9 +851,9 @@
    ]
   },
   {
-   "begin": "828.520",
+   "begin": "1730.360",
    "children": [],
-   "end": "832.040",
+   "end": "1748.360",
    "id": "f000086",
    "language": "eng",
    "lines": [
@@ -861,9 +861,9 @@
    ]
   },
   {
-   "begin": "832.040",
+   "begin": "1748.360",
    "children": [],
-   "end": "841.920",
+   "end": "1762.480",
    "id": "f000087",
    "language": "eng",
    "lines": [
@@ -871,9 +871,9 @@
    ]
   },
   {
-   "begin": "841.920",
+   "begin": "1762.480",
    "children": [],
-   "end": "845.120",
+   "end": "1770.600",
    "id": "f000088",
    "language": "eng",
    "lines": [
@@ -881,9 +881,9 @@
    ]
   },
   {
-   "begin": "845.120",
+   "begin": "1770.600",
    "children": [],
-   "end": "852.880",
+   "end": "1785.000",
    "id": "f000089",
    "language": "eng",
    "lines": [
@@ -891,9 +891,9 @@
    ]
   },
   {
-   "begin": "852.880",
+   "begin": "1785.000",
    "children": [],
-   "end": "864.520",
+   "end": "1806.600",
    "id": "f000090",
    "language": "eng",
    "lines": [
@@ -901,9 +901,9 @@
    ]
   },
   {
-   "begin": "864.520",
+   "begin": "1806.600",
    "children": [],
-   "end": "888.600",
+   "end": "1837.880",
    "id": "f000091",
    "language": "eng",
    "lines": [
@@ -911,9 +911,9 @@
    ]
   },
   {
-   "begin": "888.600",
+   "begin": "1837.880",
    "children": [],
-   "end": "910.720",
+   "end": "1877.880",
    "id": "f000092",
    "language": "eng",
    "lines": [
@@ -921,9 +921,9 @@
    ]
   },
   {
-   "begin": "910.720",
+   "begin": "1877.880",
    "children": [],
-   "end": "916.040",
+   "end": "1884.520",
    "id": "f000093",
    "language": "eng",
    "lines": [
@@ -931,9 +931,9 @@
    ]
   },
   {
-   "begin": "916.040",
+   "begin": "1884.520",
    "children": [],
-   "end": "930.520",
+   "end": "1895.040",
    "id": "f000094",
    "language": "eng",
    "lines": [
@@ -941,9 +941,9 @@
    ]
   },
   {
-   "begin": "930.520",
+   "begin": "1895.040",
    "children": [],
-   "end": "956.800",
+   "end": "1939.080",
    "id": "f000095",
    "language": "eng",
    "lines": [
@@ -951,23 +951,13 @@
    ]
   },
   {
-   "begin": "956.800",
+   "begin": "1939.080",
    "children": [],
-   "end": "959.640",
+   "end": "1945.480",
    "id": "f000096",
    "language": "eng",
    "lines": [
     "propose."
-   ]
-  },
-  {
-   "begin": "959.640",
-   "children": [],
-   "end": "1945.480",
-   "id": "f000097",
-   "language": "eng",
-   "lines": [
-    "Chair, adjudicators, ladies and gentlemen, from Franklin Delano Roosevelt to Harry Truman to Dwight Eisenhower to Lyndon Johnson, all the way up to the beginning of Reagan's very first term, U.S. Economic policy and culture, looked to align capitalistic mechanisms of wealth creation with a government which looked after the most vulnerable and empowered the disempowered. The rhetoric of American economic policy was that of the Great Society, of the New Deal which saw the fundamentally important economic unit in society as the community, as the family. Which looked to empower the people at the very bottom of that economic system or those in the middle and that is what the success of an economic system were, was measured by. That changed with the beginning of Reagan's term and that changed with the deregulation of financial institutions. It created a toxic political culture and culture in general in three respects. Firstly, a toxic culture of individualism. Secondly, a toxic culture of consumption and thirdly, a toxic culture of inequality. This identification is the most important thing in the debate because to a large extent, we're willing to accept that there might be some economic benefits and dis-benefits on both sides of the house. Although obviously, we think the dis-benefits which Opening Government identified are larger. The important thing here, is the way that you react to those economic dis-benefits is completely premise on the way that you feel about your life in general and the way that that political culture is enacted and exists. So, that's what our extension is about. I'm gonna move through those three elements of the culture which I talk about. Firstly, with respect to individualism. Mass deregulation creates a hyper individualistic society. That's precisely because of the assumptions that need to underlie economic policy and political, and political culture in general in order for this deregulation to occur. Those assumptions are as follows. There are the, you should do whatever you want to get your hands on stuff. On a house, on a car or whatever. That if it goes wrong, ultimately, the risk completely lies with you but if it goes right, you are not in any way to, to take credit for that. Rather if a credit goes to a financial institution with which you don't identify and with people who are at the very top of your society. Moreover, that culture is one which sees the only important unit in society as one of the individual, individual. That an individual is willing and able to prioritize completely, their economic betterment over the economic betterment of someone else. So, if I'm a lender who is trying to lend a poor vulnerable person a loan so that they can buy a house, it shouldn't matter to me to check really, if they have enough collateral because ultimately, the only thing that matters is my economic betterment. That is the change which deregulation makes. That means that your self-worth is based on how much money you have to a lot greater extent. I'd like to point out that that isn't true in that comparative world, because obviously we accept that the United States on both sides of the house, is a capitalistic country. But I would point out that, like capitalism is not an absolute state, rather it exists in degrees. The capitalism of Harry Truman and Dwight Eisenhower is very different to the capitalism of Ronald Reagan and Donald Trump. I would point out that in the 1950s, even though often, rates of poverty were very high, rates of homelessness were exceptionally low because individuals were expected to look after those close to them in order to prevent those sorts of harms. That individualism is harmful for three reasons. The first reason, is that the most vulnerable people are always the most egregiously harmed. Because in our world, they are the people who are seen as the least valuable because the only value which they have, is measured completely to a much greater extent, by the amount of money they own. Secondly, political discussion is more toxic because you're more willing to remove, for instance, protections of social welfare for individuals insofar as you conceive of them as having failed at some sort of economic goal which they should have tried to achieve. The third thing to say here is that it creates a society which ha, has a lot of people who are more socially disconnected and excluded. It's a society with more homeless people. It's a society where people hark back to an idea of a 1950s America, aren't provided with it by a government because that government doesn't care about them anymore. And so, they vote for fascists and they vote for Trump. Ultimately, when you judge your worth relative to other people around you and you and you alone are seen to be responsible for your position, you don't get any source of benefit. The most important material in this debate is this, and here's why. The only reason why an economic crash is bad is that it makes people feel sad because they don't have any money. Our contention is that people feel sad all of the time as a result of this deregulation.  The second identification to make here is with respect, no, thank you, to consumption. Mass deregulation creates a society and a culture geared toward consumption. The reason for this is that the most important deregulation took place in the context of giving normal consumers, normal Americans, the money to buy things which they wouldn't have been able to before. It wasn't really college loans because they existed already to a huge extent, that's kind of all banks did for an awfully long time. Rather, it was getting a mortgage on a second house, it was getting a remortgage on that house, it was getting a loan so you could buy a car. That created a culture towards complete short-termism. That you were willing to put yourself in an economically precarious position and you should be willing to do so, because if you're not, you're not truly American and you're not buying in to what the economic, no, thank you, culture of that time dictates to you. This culture is harmful for two reasons. The first reason is that obviously insofar as that is seen as important, that happiness is very fleeting in instances that you use, but se, lose, lose it rather. Secondly, that happiness is measured relatively. So, that is to say most vulnerable people are harmed because they don't have the same sort of economic capital which is necessary to access that consumption. No, thank you. Thirdly, a culture of inequality. Mass de, deregulation creates inequality. This is just empirically indisputable, right. They tell you the view all about how, no, thank you, the most vulnerable people on their side of the house are empowered by their proposition. I would point out that the working wage in the United States has actively declined relative to inflation since the 1980s. So, that is just empirically false and can in no way be empirically true. But it is empirically indisputable that inequality has also risen. That is because the most important identification here is that the risk always lies with people who all, with people who don't have any capital. That is to say that if your loan goes wrong and you can't pay back your mortgage, you're completely screwed, but insofar as you're a bank who are giving loans, you're going to get failed anyway. So, that risk never lies with you but the benefit always, always does because that loan is potentially getting paid ba, back. In and of itself, that inequality is harmful for two reasons. The first reason, is it creates a society which is less democratic insofar as people are more disconnected from each other but also, insofar as big financial institutions have more capacity to affect political discourse because they have more money to donate to things like lobbying. And also, a component of deregulation of financial institutions is deregulation on things like political donations. That is in this debate and you get more of that on your side of the house. But secondly, it's a society which is generally less cohesive, a society which is shown to have more crime, a society which is shown to have higher rates of depression. Culture is the most important thing in this debate. We win it. Happy to opp, propose."
    ]
   }
  ]

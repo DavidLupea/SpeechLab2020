@@ -20,7 +20,7 @@ def reformat_transcript(fname):
 
     for a in portions:
         f_out.write(a + "\n")
-    f_out.write(seg)
+    # f_out.write(seg)
 
 def reformat_batch(dir, debate_name):
     files = os.listdir(dir)
@@ -39,5 +39,5 @@ def batch_align(dir, debate_name):
 
         os.system('python3 -m aeneas.tools.execute_task ' + dir + cur_audio_file + ' ' + dir + cur_txt_file + ' "task_language=eng|os_task_file_format=json|is_text_type=plain" ' + dir +  debate_name + "_S" + str(i) +'_map.json')
 
-# reformat_batch("demos/", "E17SF01")
+reformat_batch("demos/", "E17SF01")
 batch_align("outputs/", "E17SF01")

@@ -3,7 +3,7 @@
   {
    "begin": "0.000",
    "children": [],
-   "end": "0.360",
+   "end": "1.480",
    "id": "f000001",
    "language": "eng",
    "lines": [
@@ -11,9 +11,9 @@
    ]
   },
   {
-   "begin": "0.360",
+   "begin": "1.480",
    "children": [],
-   "end": "7.160",
+   "end": "18.360",
    "id": "f000002",
    "language": "eng",
    "lines": [
@@ -21,9 +21,9 @@
    ]
   },
   {
-   "begin": "7.160",
+   "begin": "18.360",
    "children": [],
-   "end": "8.440",
+   "end": "24.720",
    "id": "f000003",
    "language": "eng",
    "lines": [
@@ -31,9 +31,9 @@
    ]
   },
   {
-   "begin": "8.440",
+   "begin": "24.720",
    "children": [],
-   "end": "9.040",
+   "end": "26.800",
    "id": "f000004",
    "language": "eng",
    "lines": [
@@ -41,9 +41,9 @@
    ]
   },
   {
-   "begin": "9.040",
+   "begin": "26.800",
    "children": [],
-   "end": "22.880",
+   "end": "70.400",
    "id": "f000005",
    "language": "eng",
    "lines": [
@@ -51,9 +51,9 @@
    ]
   },
   {
-   "begin": "22.880",
+   "begin": "70.400",
    "children": [],
-   "end": "25.200",
+   "end": "79.480",
    "id": "f000006",
    "language": "eng",
    "lines": [
@@ -61,9 +61,9 @@
    ]
   },
   {
-   "begin": "25.200",
+   "begin": "79.480",
    "children": [],
-   "end": "27.880",
+   "end": "88.600",
    "id": "f000007",
    "language": "eng",
    "lines": [
@@ -71,9 +71,9 @@
    ]
   },
   {
-   "begin": "27.880",
+   "begin": "88.600",
    "children": [],
-   "end": "29.600",
+   "end": "91.120",
    "id": "f000008",
    "language": "eng",
    "lines": [
@@ -81,9 +81,9 @@
    ]
   },
   {
-   "begin": "29.600",
+   "begin": "91.120",
    "children": [],
-   "end": "34.560",
+   "end": "113.720",
    "id": "f000009",
    "language": "eng",
    "lines": [
@@ -91,9 +91,9 @@
    ]
   },
   {
-   "begin": "34.560",
+   "begin": "113.720",
    "children": [],
-   "end": "36.040",
+   "end": "116.920",
    "id": "f000010",
    "language": "eng",
    "lines": [
@@ -101,9 +101,9 @@
    ]
   },
   {
-   "begin": "36.040",
+   "begin": "116.920",
    "children": [],
-   "end": "37.000",
+   "end": "122.000",
    "id": "f000011",
    "language": "eng",
    "lines": [
@@ -111,9 +111,9 @@
    ]
   },
   {
-   "begin": "37.000",
+   "begin": "122.000",
    "children": [],
-   "end": "41.920",
+   "end": "132.560",
    "id": "f000012",
    "language": "eng",
    "lines": [
@@ -121,9 +121,9 @@
    ]
   },
   {
-   "begin": "41.920",
+   "begin": "132.560",
    "children": [],
-   "end": "45.880",
+   "end": "144.160",
    "id": "f000013",
    "language": "eng",
    "lines": [
@@ -131,9 +131,9 @@
    ]
   },
   {
-   "begin": "45.880",
+   "begin": "144.160",
    "children": [],
-   "end": "49.120",
+   "end": "153.320",
    "id": "f000014",
    "language": "eng",
    "lines": [
@@ -141,9 +141,9 @@
    ]
   },
   {
-   "begin": "49.120",
+   "begin": "153.320",
    "children": [],
-   "end": "56.960",
+   "end": "172.880",
    "id": "f000015",
    "language": "eng",
    "lines": [
@@ -151,9 +151,9 @@
    ]
   },
   {
-   "begin": "56.960",
+   "begin": "172.880",
    "children": [],
-   "end": "60.200",
+   "end": "178.360",
    "id": "f000016",
    "language": "eng",
    "lines": [
@@ -161,9 +161,9 @@
    ]
   },
   {
-   "begin": "60.200",
+   "begin": "178.360",
    "children": [],
-   "end": "60.760",
+   "end": "178.920",
    "id": "f000017",
    "language": "eng",
    "lines": [
@@ -171,9 +171,9 @@
    ]
   },
   {
-   "begin": "60.760",
+   "begin": "178.920",
    "children": [],
-   "end": "62.840",
+   "end": "186.480",
    "id": "f000018",
    "language": "eng",
    "lines": [
@@ -181,9 +181,9 @@
    ]
   },
   {
-   "begin": "62.840",
+   "begin": "186.480",
    "children": [],
-   "end": "64.920",
+   "end": "191.880",
    "id": "f000019",
    "language": "eng",
    "lines": [
@@ -191,9 +191,9 @@
    ]
   },
   {
-   "begin": "64.920",
+   "begin": "191.880",
    "children": [],
-   "end": "65.920",
+   "end": "194.840",
    "id": "f000020",
    "language": "eng",
    "lines": [
@@ -201,9 +201,9 @@
    ]
   },
   {
-   "begin": "65.920",
+   "begin": "194.840",
    "children": [],
-   "end": "71.040",
+   "end": "210.440",
    "id": "f000021",
    "language": "eng",
    "lines": [
@@ -211,9 +211,9 @@
    ]
   },
   {
-   "begin": "71.040",
+   "begin": "210.440",
    "children": [],
-   "end": "78.680",
+   "end": "234.080",
    "id": "f000022",
    "language": "eng",
    "lines": [
@@ -221,9 +221,9 @@
    ]
   },
   {
-   "begin": "78.680",
+   "begin": "234.080",
    "children": [],
-   "end": "80.680",
+   "end": "237.400",
    "id": "f000023",
    "language": "eng",
    "lines": [
@@ -231,9 +231,9 @@
    ]
   },
   {
-   "begin": "80.680",
+   "begin": "237.400",
    "children": [],
-   "end": "85.320",
+   "end": "248.200",
    "id": "f000024",
    "language": "eng",
    "lines": [
@@ -241,9 +241,9 @@
    ]
   },
   {
-   "begin": "85.320",
+   "begin": "248.200",
    "children": [],
-   "end": "87.880",
+   "end": "255.280",
    "id": "f000025",
    "language": "eng",
    "lines": [
@@ -251,9 +251,9 @@
    ]
   },
   {
-   "begin": "87.880",
+   "begin": "255.280",
    "children": [],
-   "end": "91.080",
+   "end": "264.400",
    "id": "f000026",
    "language": "eng",
    "lines": [
@@ -261,9 +261,9 @@
    ]
   },
   {
-   "begin": "91.080",
+   "begin": "264.400",
    "children": [],
-   "end": "97.520",
+   "end": "290.640",
    "id": "f000027",
    "language": "eng",
    "lines": [
@@ -271,9 +271,9 @@
    ]
   },
   {
-   "begin": "97.520",
+   "begin": "290.640",
    "children": [],
-   "end": "99.400",
+   "end": "293.760",
    "id": "f000028",
    "language": "eng",
    "lines": [
@@ -281,9 +281,9 @@
    ]
   },
   {
-   "begin": "99.400",
+   "begin": "293.760",
    "children": [],
-   "end": "99.720",
+   "end": "296.800",
    "id": "f000029",
    "language": "eng",
    "lines": [
@@ -291,9 +291,9 @@
    ]
   },
   {
-   "begin": "99.720",
+   "begin": "296.800",
    "children": [],
-   "end": "101.080",
+   "end": "301.080",
    "id": "f000030",
    "language": "eng",
    "lines": [
@@ -301,9 +301,9 @@
    ]
   },
   {
-   "begin": "101.080",
+   "begin": "301.080",
    "children": [],
-   "end": "102.360",
+   "end": "305.360",
    "id": "f000031",
    "language": "eng",
    "lines": [
@@ -311,9 +311,9 @@
    ]
   },
   {
-   "begin": "102.360",
+   "begin": "305.360",
    "children": [],
-   "end": "111.120",
+   "end": "321.760",
    "id": "f000032",
    "language": "eng",
    "lines": [
@@ -321,9 +321,9 @@
    ]
   },
   {
-   "begin": "111.120",
+   "begin": "321.760",
    "children": [],
-   "end": "121.000",
+   "end": "336.720",
    "id": "f000033",
    "language": "eng",
    "lines": [
@@ -331,9 +331,9 @@
    ]
   },
   {
-   "begin": "121.000",
+   "begin": "336.720",
    "children": [],
-   "end": "123.400",
+   "end": "339.720",
    "id": "f000034",
    "language": "eng",
    "lines": [
@@ -341,9 +341,9 @@
    ]
   },
   {
-   "begin": "123.400",
+   "begin": "339.720",
    "children": [],
-   "end": "126.800",
+   "end": "346.480",
    "id": "f000035",
    "language": "eng",
    "lines": [
@@ -351,9 +351,9 @@
    ]
   },
   {
-   "begin": "126.800",
+   "begin": "346.480",
    "children": [],
-   "end": "132.280",
+   "end": "360.600",
    "id": "f000036",
    "language": "eng",
    "lines": [
@@ -361,9 +361,9 @@
    ]
   },
   {
-   "begin": "132.280",
+   "begin": "360.600",
    "children": [],
-   "end": "137.840",
+   "end": "369.360",
    "id": "f000037",
    "language": "eng",
    "lines": [
@@ -371,9 +371,9 @@
    ]
   },
   {
-   "begin": "137.840",
+   "begin": "369.360",
    "children": [],
-   "end": "143.640",
+   "end": "378.440",
    "id": "f000038",
    "language": "eng",
    "lines": [
@@ -381,9 +381,9 @@
    ]
   },
   {
-   "begin": "143.640",
+   "begin": "378.440",
    "children": [],
-   "end": "146.240",
+   "end": "384.520",
    "id": "f000039",
    "language": "eng",
    "lines": [
@@ -391,9 +391,9 @@
    ]
   },
   {
-   "begin": "146.240",
+   "begin": "384.520",
    "children": [],
-   "end": "149.720",
+   "end": "390.440",
    "id": "f000040",
    "language": "eng",
    "lines": [
@@ -401,9 +401,9 @@
    ]
   },
   {
-   "begin": "149.720",
+   "begin": "390.440",
    "children": [],
-   "end": "153.840",
+   "end": "400.480",
    "id": "f000041",
    "language": "eng",
    "lines": [
@@ -411,9 +411,9 @@
    ]
   },
   {
-   "begin": "153.840",
+   "begin": "400.480",
    "children": [],
-   "end": "155.000",
+   "end": "401.640",
    "id": "f000042",
    "language": "eng",
    "lines": [
@@ -421,9 +421,9 @@
    ]
   },
   {
-   "begin": "155.000",
+   "begin": "401.640",
    "children": [],
-   "end": "165.240",
+   "end": "412.120",
    "id": "f000043",
    "language": "eng",
    "lines": [
@@ -431,9 +431,9 @@
    ]
   },
   {
-   "begin": "165.240",
+   "begin": "412.120",
    "children": [],
-   "end": "175.480",
+   "end": "425.640",
    "id": "f000044",
    "language": "eng",
    "lines": [
@@ -441,9 +441,9 @@
    ]
   },
   {
-   "begin": "175.480",
+   "begin": "425.640",
    "children": [],
-   "end": "176.360",
+   "end": "426.400",
    "id": "f000045",
    "language": "eng",
    "lines": [
@@ -451,9 +451,9 @@
    ]
   },
   {
-   "begin": "176.360",
+   "begin": "426.400",
    "children": [],
-   "end": "179.520",
+   "end": "432.520",
    "id": "f000046",
    "language": "eng",
    "lines": [
@@ -461,9 +461,9 @@
    ]
   },
   {
-   "begin": "179.520",
+   "begin": "432.520",
    "children": [],
-   "end": "183.600",
+   "end": "462.280",
    "id": "f000047",
    "language": "eng",
    "lines": [
@@ -471,9 +471,9 @@
    ]
   },
   {
-   "begin": "183.600",
+   "begin": "462.280",
    "children": [],
-   "end": "186.480",
+   "end": "476.920",
    "id": "f000048",
    "language": "eng",
    "lines": [
@@ -481,9 +481,9 @@
    ]
   },
   {
-   "begin": "186.480",
+   "begin": "476.920",
    "children": [],
-   "end": "191.560",
+   "end": "482.840",
    "id": "f000049",
    "language": "eng",
    "lines": [
@@ -491,9 +491,9 @@
    ]
   },
   {
-   "begin": "191.560",
+   "begin": "482.840",
    "children": [],
-   "end": "193.560",
+   "end": "485.120",
    "id": "f000050",
    "language": "eng",
    "lines": [
@@ -501,9 +501,9 @@
    ]
   },
   {
-   "begin": "193.560",
+   "begin": "485.120",
    "children": [],
-   "end": "196.720",
+   "end": "488.760",
    "id": "f000051",
    "language": "eng",
    "lines": [
@@ -511,9 +511,9 @@
    ]
   },
   {
-   "begin": "196.720",
+   "begin": "488.760",
    "children": [],
-   "end": "199.400",
+   "end": "494.120",
    "id": "f000052",
    "language": "eng",
    "lines": [
@@ -521,9 +521,9 @@
    ]
   },
   {
-   "begin": "199.400",
+   "begin": "494.120",
    "children": [],
-   "end": "202.280",
+   "end": "498.480",
    "id": "f000053",
    "language": "eng",
    "lines": [
@@ -531,9 +531,9 @@
    ]
   },
   {
-   "begin": "202.280",
+   "begin": "498.480",
    "children": [],
-   "end": "212.880",
+   "end": "518.720",
    "id": "f000054",
    "language": "eng",
    "lines": [
@@ -541,9 +541,9 @@
    ]
   },
   {
-   "begin": "212.880",
+   "begin": "518.720",
    "children": [],
-   "end": "216.960",
+   "end": "530.640",
    "id": "f000055",
    "language": "eng",
    "lines": [
@@ -551,9 +551,9 @@
    ]
   },
   {
-   "begin": "216.960",
+   "begin": "530.640",
    "children": [],
-   "end": "219.080",
+   "end": "539.280",
    "id": "f000056",
    "language": "eng",
    "lines": [
@@ -561,9 +561,9 @@
    ]
   },
   {
-   "begin": "219.080",
+   "begin": "539.280",
    "children": [],
-   "end": "234.080",
+   "end": "568.880",
    "id": "f000057",
    "language": "eng",
    "lines": [
@@ -571,9 +571,9 @@
    ]
   },
   {
-   "begin": "234.080",
+   "begin": "568.880",
    "children": [],
-   "end": "236.000",
+   "end": "571.320",
    "id": "f000058",
    "language": "eng",
    "lines": [
@@ -581,9 +581,9 @@
    ]
   },
   {
-   "begin": "236.000",
+   "begin": "571.320",
    "children": [],
-   "end": "242.400",
+   "end": "588.440",
    "id": "f000059",
    "language": "eng",
    "lines": [
@@ -591,9 +591,9 @@
    ]
   },
   {
-   "begin": "242.400",
+   "begin": "588.440",
    "children": [],
-   "end": "268.480",
+   "end": "644.680",
    "id": "f000060",
    "language": "eng",
    "lines": [
@@ -601,9 +601,9 @@
    ]
   },
   {
-   "begin": "268.480",
+   "begin": "644.680",
    "children": [],
-   "end": "277.000",
+   "end": "662.400",
    "id": "f000061",
    "language": "eng",
    "lines": [
@@ -611,9 +611,9 @@
    ]
   },
   {
-   "begin": "277.000",
+   "begin": "662.400",
    "children": [],
-   "end": "281.000",
+   "end": "669.040",
    "id": "f000062",
    "language": "eng",
    "lines": [
@@ -621,9 +621,9 @@
    ]
   },
   {
-   "begin": "281.000",
+   "begin": "669.040",
    "children": [],
-   "end": "285.160",
+   "end": "674.080",
    "id": "f000063",
    "language": "eng",
    "lines": [
@@ -631,9 +631,9 @@
    ]
   },
   {
-   "begin": "285.160",
+   "begin": "674.080",
    "children": [],
-   "end": "292.600",
+   "end": "688.280",
    "id": "f000064",
    "language": "eng",
    "lines": [
@@ -641,9 +641,9 @@
    ]
   },
   {
-   "begin": "292.600",
+   "begin": "688.280",
    "children": [],
-   "end": "293.320",
+   "end": "689.800",
    "id": "f000065",
    "language": "eng",
    "lines": [
@@ -651,9 +651,9 @@
    ]
   },
   {
-   "begin": "293.320",
+   "begin": "689.800",
    "children": [],
-   "end": "298.400",
+   "end": "695.240",
    "id": "f000066",
    "language": "eng",
    "lines": [
@@ -661,9 +661,9 @@
    ]
   },
   {
-   "begin": "298.400",
+   "begin": "695.240",
    "children": [],
-   "end": "310.960",
+   "end": "714.680",
    "id": "f000067",
    "language": "eng",
    "lines": [
@@ -671,9 +671,9 @@
    ]
   },
   {
-   "begin": "310.960",
+   "begin": "714.680",
    "children": [],
-   "end": "326.640",
+   "end": "750.760",
    "id": "f000068",
    "language": "eng",
    "lines": [
@@ -681,9 +681,9 @@
    ]
   },
   {
-   "begin": "326.640",
+   "begin": "750.760",
    "children": [],
-   "end": "332.640",
+   "end": "763.320",
    "id": "f000069",
    "language": "eng",
    "lines": [
@@ -691,9 +691,9 @@
    ]
   },
   {
-   "begin": "332.640",
+   "begin": "763.320",
    "children": [],
-   "end": "336.920",
+   "end": "772.480",
    "id": "f000070",
    "language": "eng",
    "lines": [
@@ -701,9 +701,9 @@
    ]
   },
   {
-   "begin": "336.920",
+   "begin": "772.480",
    "children": [],
-   "end": "339.680",
+   "end": "778.760",
    "id": "f000071",
    "language": "eng",
    "lines": [
@@ -711,9 +711,9 @@
    ]
   },
   {
-   "begin": "339.680",
+   "begin": "778.760",
    "children": [],
-   "end": "346.120",
+   "end": "786.000",
    "id": "f000072",
    "language": "eng",
    "lines": [
@@ -721,9 +721,9 @@
    ]
   },
   {
-   "begin": "346.120",
+   "begin": "786.000",
    "children": [],
-   "end": "350.000",
+   "end": "792.000",
    "id": "f000073",
    "language": "eng",
    "lines": [
@@ -731,9 +731,9 @@
    ]
   },
   {
-   "begin": "350.000",
+   "begin": "792.000",
    "children": [],
-   "end": "369.560",
+   "end": "823.040",
    "id": "f000074",
    "language": "eng",
    "lines": [
@@ -741,9 +741,9 @@
    ]
   },
   {
-   "begin": "369.560",
+   "begin": "823.040",
    "children": [],
-   "end": "371.000",
+   "end": "824.960",
    "id": "f000075",
    "language": "eng",
    "lines": [
@@ -751,9 +751,9 @@
    ]
   },
   {
-   "begin": "371.000",
+   "begin": "824.960",
    "children": [],
-   "end": "373.280",
+   "end": "827.880",
    "id": "f000076",
    "language": "eng",
    "lines": [
@@ -761,9 +761,9 @@
    ]
   },
   {
-   "begin": "373.280",
+   "begin": "827.880",
    "children": [],
-   "end": "376.320",
+   "end": "832.960",
    "id": "f000077",
    "language": "eng",
    "lines": [
@@ -771,9 +771,9 @@
    ]
   },
   {
-   "begin": "376.320",
+   "begin": "832.960",
    "children": [],
-   "end": "387.520",
+   "end": "852.960",
    "id": "f000078",
    "language": "eng",
    "lines": [
@@ -781,9 +781,9 @@
    ]
   },
   {
-   "begin": "387.520",
+   "begin": "852.960",
    "children": [],
-   "end": "389.000",
+   "end": "856.400",
    "id": "f000079",
    "language": "eng",
    "lines": [
@@ -791,9 +791,9 @@
    ]
   },
   {
-   "begin": "389.000",
+   "begin": "856.400",
    "children": [],
-   "end": "402.440",
+   "end": "891.400",
    "id": "f000080",
    "language": "eng",
    "lines": [
@@ -801,9 +801,9 @@
    ]
   },
   {
-   "begin": "402.440",
+   "begin": "891.400",
    "children": [],
-   "end": "410.680",
+   "end": "909.360",
    "id": "f000081",
    "language": "eng",
    "lines": [
@@ -811,9 +811,9 @@
    ]
   },
   {
-   "begin": "410.680",
+   "begin": "909.360",
    "children": [],
-   "end": "412.440",
+   "end": "912.240",
    "id": "f000082",
    "language": "eng",
    "lines": [
@@ -821,9 +821,9 @@
    ]
   },
   {
-   "begin": "412.440",
+   "begin": "912.240",
    "children": [],
-   "end": "416.360",
+   "end": "916.880",
    "id": "f000083",
    "language": "eng",
    "lines": [
@@ -831,9 +831,9 @@
    ]
   },
   {
-   "begin": "416.360",
+   "begin": "916.880",
    "children": [],
-   "end": "418.560",
+   "end": "933.880",
    "id": "f000084",
    "language": "eng",
    "lines": [
@@ -841,9 +841,9 @@
    ]
   },
   {
-   "begin": "418.560",
+   "begin": "933.880",
    "children": [],
-   "end": "421.160",
+   "end": "978.840",
    "id": "f000085",
    "language": "eng",
    "lines": [
@@ -851,9 +851,9 @@
    ]
   },
   {
-   "begin": "421.160",
+   "begin": "978.840",
    "children": [],
-   "end": "430.440",
+   "end": "1001.400",
    "id": "f000086",
    "language": "eng",
    "lines": [
@@ -861,9 +861,9 @@
    ]
   },
   {
-   "begin": "430.440",
+   "begin": "1001.400",
    "children": [],
-   "end": "432.560",
+   "end": "1006.520",
    "id": "f000087",
    "language": "eng",
    "lines": [
@@ -871,9 +871,9 @@
    ]
   },
   {
-   "begin": "432.560",
+   "begin": "1006.520",
    "children": [],
-   "end": "436.960",
+   "end": "1013.680",
    "id": "f000088",
    "language": "eng",
    "lines": [
@@ -881,9 +881,9 @@
    ]
   },
   {
-   "begin": "436.960",
+   "begin": "1013.680",
    "children": [],
-   "end": "464.120",
+   "end": "1030.960",
    "id": "f000089",
    "language": "eng",
    "lines": [
@@ -891,9 +891,9 @@
    ]
   },
   {
-   "begin": "464.120",
+   "begin": "1030.960",
    "children": [],
-   "end": "473.000",
+   "end": "1036.920",
    "id": "f000090",
    "language": "eng",
    "lines": [
@@ -901,9 +901,9 @@
    ]
   },
   {
-   "begin": "473.000",
+   "begin": "1036.920",
    "children": [],
-   "end": "480.040",
+   "end": "1045.120",
    "id": "f000091",
    "language": "eng",
    "lines": [
@@ -911,9 +911,9 @@
    ]
   },
   {
-   "begin": "480.040",
+   "begin": "1045.120",
    "children": [],
-   "end": "480.520",
+   "end": "1046.400",
    "id": "f000092",
    "language": "eng",
    "lines": [
@@ -921,9 +921,9 @@
    ]
   },
   {
-   "begin": "480.520",
+   "begin": "1046.400",
    "children": [],
-   "end": "481.520",
+   "end": "1049.160",
    "id": "f000093",
    "language": "eng",
    "lines": [
@@ -931,9 +931,9 @@
    ]
   },
   {
-   "begin": "481.520",
+   "begin": "1049.160",
    "children": [],
-   "end": "501.080",
+   "end": "1082.120",
    "id": "f000094",
    "language": "eng",
    "lines": [
@@ -941,9 +941,9 @@
    ]
   },
   {
-   "begin": "501.080",
+   "begin": "1082.120",
    "children": [],
-   "end": "518.960",
+   "end": "1111.840",
    "id": "f000095",
    "language": "eng",
    "lines": [
@@ -951,9 +951,9 @@
    ]
   },
   {
-   "begin": "518.960",
+   "begin": "1111.840",
    "children": [],
-   "end": "526.600",
+   "end": "1127.800",
    "id": "f000096",
    "language": "eng",
    "lines": [
@@ -961,9 +961,9 @@
    ]
   },
   {
-   "begin": "526.600",
+   "begin": "1127.800",
    "children": [],
-   "end": "529.000",
+   "end": "1130.000",
    "id": "f000097",
    "language": "eng",
    "lines": [
@@ -971,9 +971,9 @@
    ]
   },
   {
-   "begin": "529.000",
+   "begin": "1130.000",
    "children": [],
-   "end": "537.640",
+   "end": "1144.600",
    "id": "f000098",
    "language": "eng",
    "lines": [
@@ -981,9 +981,9 @@
    ]
   },
   {
-   "begin": "537.640",
+   "begin": "1144.600",
    "children": [],
-   "end": "541.240",
+   "end": "1151.720",
    "id": "f000099",
    "language": "eng",
    "lines": [
@@ -991,9 +991,9 @@
    ]
   },
   {
-   "begin": "541.240",
+   "begin": "1151.720",
    "children": [],
-   "end": "548.680",
+   "end": "1173.880",
    "id": "f000100",
    "language": "eng",
    "lines": [
@@ -1001,9 +1001,9 @@
    ]
   },
   {
-   "begin": "548.680",
+   "begin": "1173.880",
    "children": [],
-   "end": "552.200",
+   "end": "1180.000",
    "id": "f000101",
    "language": "eng",
    "lines": [
@@ -1011,9 +1011,9 @@
    ]
   },
   {
-   "begin": "552.200",
+   "begin": "1180.000",
    "children": [],
-   "end": "556.480",
+   "end": "1194.040",
    "id": "f000102",
    "language": "eng",
    "lines": [
@@ -1021,9 +1021,9 @@
    ]
   },
   {
-   "begin": "556.480",
+   "begin": "1194.040",
    "children": [],
-   "end": "560.360",
+   "end": "1205.960",
    "id": "f000103",
    "language": "eng",
    "lines": [
@@ -1031,9 +1031,9 @@
    ]
   },
   {
-   "begin": "560.360",
+   "begin": "1205.960",
    "children": [],
-   "end": "570.600",
+   "end": "1227.040",
    "id": "f000104",
    "language": "eng",
    "lines": [
@@ -1041,9 +1041,9 @@
    ]
   },
   {
-   "begin": "570.600",
+   "begin": "1227.040",
    "children": [],
-   "end": "584.480",
+   "end": "1265.520",
    "id": "f000105",
    "language": "eng",
    "lines": [
@@ -1051,9 +1051,9 @@
    ]
   },
   {
-   "begin": "584.480",
+   "begin": "1265.520",
    "children": [],
-   "end": "585.400",
+   "end": "1266.480",
    "id": "f000106",
    "language": "eng",
    "lines": [
@@ -1061,9 +1061,9 @@
    ]
   },
   {
-   "begin": "585.400",
+   "begin": "1266.480",
    "children": [],
-   "end": "589.480",
+   "end": "1278.800",
    "id": "f000107",
    "language": "eng",
    "lines": [
@@ -1071,9 +1071,9 @@
    ]
   },
   {
-   "begin": "589.480",
+   "begin": "1278.800",
    "children": [],
-   "end": "596.520",
+   "end": "1301.800",
    "id": "f000108",
    "language": "eng",
    "lines": [
@@ -1081,9 +1081,9 @@
    ]
   },
   {
-   "begin": "596.520",
+   "begin": "1301.800",
    "children": [],
-   "end": "602.160",
+   "end": "1318.040",
    "id": "f000109",
    "language": "eng",
    "lines": [
@@ -1091,9 +1091,9 @@
    ]
   },
   {
-   "begin": "602.160",
+   "begin": "1318.040",
    "children": [],
-   "end": "606.680",
+   "end": "1328.320",
    "id": "f000110",
    "language": "eng",
    "lines": [
@@ -1101,9 +1101,9 @@
    ]
   },
   {
-   "begin": "606.680",
+   "begin": "1328.320",
    "children": [],
-   "end": "622.400",
+   "end": "1353.640",
    "id": "f000111",
    "language": "eng",
    "lines": [
@@ -1111,9 +1111,9 @@
    ]
   },
   {
-   "begin": "622.400",
+   "begin": "1353.640",
    "children": [],
-   "end": "624.520",
+   "end": "1357.280",
    "id": "f000112",
    "language": "eng",
    "lines": [
@@ -1121,9 +1121,9 @@
    ]
   },
   {
-   "begin": "624.520",
+   "begin": "1357.280",
    "children": [],
-   "end": "633.320",
+   "end": "1366.840",
    "id": "f000113",
    "language": "eng",
    "lines": [
@@ -1131,9 +1131,9 @@
    ]
   },
   {
-   "begin": "633.320",
+   "begin": "1366.840",
    "children": [],
-   "end": "635.240",
+   "end": "1368.480",
    "id": "f000114",
    "language": "eng",
    "lines": [
@@ -1141,9 +1141,9 @@
    ]
   },
   {
-   "begin": "635.240",
+   "begin": "1368.480",
    "children": [],
-   "end": "644.480",
+   "end": "1384.960",
    "id": "f000115",
    "language": "eng",
    "lines": [
@@ -1151,9 +1151,9 @@
    ]
   },
   {
-   "begin": "644.480",
+   "begin": "1384.960",
    "children": [],
-   "end": "655.280",
+   "end": "1401.720",
    "id": "f000116",
    "language": "eng",
    "lines": [
@@ -1161,9 +1161,9 @@
    ]
   },
   {
-   "begin": "655.280",
+   "begin": "1401.720",
    "children": [],
-   "end": "657.240",
+   "end": "1403.600",
    "id": "f000117",
    "language": "eng",
    "lines": [
@@ -1171,9 +1171,9 @@
    ]
   },
   {
-   "begin": "657.240",
+   "begin": "1403.600",
    "children": [],
-   "end": "671.680",
+   "end": "1437.200",
    "id": "f000118",
    "language": "eng",
    "lines": [
@@ -1181,9 +1181,9 @@
    ]
   },
   {
-   "begin": "671.680",
+   "begin": "1437.200",
    "children": [],
-   "end": "674.840",
+   "end": "1446.960",
    "id": "f000119",
    "language": "eng",
    "lines": [
@@ -1191,23 +1191,13 @@
    ]
   },
   {
-   "begin": "674.840",
+   "begin": "1446.960",
    "children": [],
-   "end": "685.360",
+   "end": "1463.480",
    "id": "f000120",
    "language": "eng",
    "lines": [
     "bring you this material. We win the debate because Opening Opposition are stuck. Opening Government are in the 20s. Very proud to oppose."
-   ]
-  },
-  {
-   "begin": "685.360",
-   "children": [],
-   "end": "1463.480",
-   "id": "f000121",
-   "language": "eng",
-   "lines": [
-    "I'm gonna start by making the radical claim that CG are out of this debate on the basis that money is good for things other than feeling happy. Those things include money, those things include shelter, those things be able, include being able to buy and interact with other people. I'm also just going to make the radical claim that the American Dream and the rhetoric of American exceptionalism will probably exist on either side of the house and has  very little to do specifically with this policy. So, as much as they wanted to shit on America and also capitalism, that was all well and good but it doesn't win the debate. Okay, three things in this speech then. One, I'm going to provide an explanation of the specific types of growth that you do not get under this policy. So, not just saying what our Opening said, which is that growth is good, but explaining specifically what exact kind of growth you do not get and why as a result, you have a smaller market and that is the world that OG have to defend. Secondly, I'm gonna talk about the specific risks of a smaller and simpler market, including a lesser degree of international cohesion and a greater ability to fuck around with other people's economies and not care about the global poor which is a massive, massive harm on their side of the house. But before I do that, just, let me just clarify the clash in this debate, right. Because what Government have to stand for, is first of all, a smaller market in real terms. That just means a smaller number of things you can buy, a smaller amount of money that is moving around and a much higher restriction on what you can invest in. It is not just the case that like growth would happen anyway, but it would be smaller growth, more narrow growth and growth only in things you were sure could be secure. But secondly, you have a lower interdependency of markets, right. It is not just the case that you would have these smaller ones, but also that they are specifically contained geographically or nationally and don't move across borders. That is a huge problem, right. But more than that, I think, but what regulation, what deregulation does, is it reduces the incentives for protectionism and trade hostility and that is something that their side has to defend. They have to defend the idea that deregulation lea, that deregulation leads to being more dependent and more willing to lend to other people and more likely to interact with them. Okay, substantive. First of all, on the stuff about financial products, right. Because is it isn't just the case that like growth is good but when the market becomes smaller, it necessarily becomes less elastic. It becomes less able to deal with risk. So, here's one of the things that happens when their side of the house, is you get some kind of financial crash, probably the housing crash on either side, because it's one of those things that you think is pretty secure, pretty legit, that people own houses. But then you cannot bounce back quickly because you are unable to diversify, you are unable to invest in other things and you are unable to get back to where you were before the crash. Yeah, sure, it took two years where we were in economic crisis, but we sure as hell bounced back quicker than we did from the Great Depression which in fairness, was the method that they supported, right. They wanted that level of regulation, right. So, if Sophie tells us, it's ridiculous to mention the 40s, why are you guys in the 1920s, right. You are defending a state in the world where it's much slower recovery. So those people who do lose out on your side of the house, don't gain that money back at any point and that is a massive problem, right. But more than that, the fastest-growing bits of our economy in this day and age are things like tech. They are industries where the actual money is something that we don't really understand how we're making yet, right. So, we're making money off Snapchat and Facebook and Instagram because we're making money off of their market shares, we're making money off of the fact that they're making money and people think they're going to be making money. Those are the biggest growing areas of our economy now and going forward probably for the next 20 years. And if you introduce the kind of regulation that they want to talk about where you have to be absolutely certain exactly how these business models are making money before you invest in them, things that we take for granted in this day and age that make our lives much better never get off the ground. Things like Facebook, things like Instagram. Things like that that actually, are making huge amounts of money, drive massive amounts of employment. That is the comparative. It's not just that, like, there would be slower growth on our side, but specific and huge chunks of the economy that we rely on today don't exist at all. Which means that people are unable to get those kind of jobs, people are unable to move forward. It's a smaller market in real terms because you just don't have those areas propelling growth because they never get invested in because they're too risky. What happens when you have a smaller market at all in, in real terms? That money never goes to the people that need it, that money can never be redistributed throughout the system, right. When Tex wants to talk about, like some kinds of financial things or where rich people take risks, good. I would love it if people take their money, put it in the market and stand a risk of it going away and going somewhere else. If you don't have the ability to invest in financial incentives and you don't have the ability to potentially make a return on that, you are more likely, as someone who's wealthy, to sit on your wealth and not to spend it, not to put it into the economy and have that spread around. It is good on our side of the house that people feel like there are massive incentives to spend their money, to invest in things, to risk that money in such a way as to mean that you could get a redistribution of wealth. The problem is when wealth collects at the top and doesn't move anywhere. And when you regulate the markets like that, the wealth stays with those we trust. It stays with those people at the top and you never get that redistribution. Cool, okay. Second thing, talking about international peace, right. But first of all, I'll take Tex.I mean it's, it is uniquely necessary to be able to give out loans to people who are risky after a financial crash in order for those people to get better. Like that just seems pretty intuitive to me, right. Like you need to be able to, in a time of financial crash when you can't be certain of lots of things, be confident that you can give that money back out into the economy so you stand any chance of bouncing back. Because otherwise, you just end up in a recession very much, much longer time because you need to spend money to make money. Okay, cool, international peace, right. Because one of the things about having a more complicated financial market is that it means that most loans and most kinds of money are not held specifically in one country or bonds are not held specifically by one bank. This, these impacts are twofold. One is that you have more banks that are able to spend money and able to trade in different things. That means you have a greater diversity in the market and you are less likely to get things like oligopolies, you are less likely to have Goldman Sachs be the only bank in the world that is able to trade and if they crash, then everything crashes, right. You are just less likely to have a few people concentrated with all of the money. Because with lower regulations it's easier to enter the market, it's easier to set up hedge funds which by the way, are great. It makes it easier to set up different parties that can invest in different things and it makes it much easier to make that kind of money. But more than that, it also means that specifically as a country, you are not incentivized to dick around in other countries\u2019 economies, right. Because the 1980s was the height of the Cold War, right. It is a time where you can mess with the trading in other countries and you can punish them. When you deregulate the market, you end up with markets like the USA and Russia being far more interconnected because money spreads across the various different banks in those two countries and things are held by both parties. So, bonds are, like double bonds are held between the bank in Pakistan and Credit Suisse, right. What is good about that is it means that you no longer have any incentive to mess with other countries. We are living in an era of, like I know it's difficult [INAUDIBLE [00:46:20] unprecedented peace, right. Where our biggest threat are people who are outside of the global economy, right. We're talking about people like North Korea who aren't engaged in this trade market. When you create a huge amount of market incentives that are very complicated, it means that you are, this is better but it also means that it's less susceptible to problems with basic or like normal things, right. So, you are less susceptible to things like OPEC being able to dick around the oil price and have that crash the global economy, because you have more complicated and better ways of making sure that you keep making money even when certain specific industries crash, right. So, deregulation leads to a greater interdependency of these markets which leads to better and more responsible decisions being made. We win against our Opening because we tell you specifically what kind of brick, growth doesn't happen and we bring you this, bring you this material. We win the debate because Opening Opposition are stuck. Opening Government are in the 20s. Very proud to oppose."
    ]
   }
  ]
