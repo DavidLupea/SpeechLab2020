@@ -36,8 +36,8 @@ def get_interval_list(formatted):
 def spliceaudio(fname, intervals):
     for i in range(len(intervals)):
         print(fname + " splicing speaker #" + str(i))
-        os.system("ffmpeg -ss " + str(intervals[i][0]) + " -t " + str(intervals[i][1]) + " -i " + os.getcwd() + "/demos/" + fname + ".mp3 " + os.getcwd() + "/outputs/" + fname + "_" + str(i) + ".mp3")
-        # os.system("ffmpeg -ss " + str(intervals[i][0]) + " -t " + str(intervals[i][1]) + " -i " + os.getcwd() + "/demos/" + fname + ".mp3 " + os.getcwd() + "/outputs/" + fname + "_" + str(i) + ".mp3")
+        print(intervals[i])
+        os.system("ffmpeg -ss " + str(intervals[i][0]) + " -t " + str(intervals[i][1] - intervals[i][0]) + " -i " + os.getcwd() + "/demos/" + fname + ".mp3 " + os.getcwd() + "/outputs/" + fname + "_" + str(i) + ".mp3")
 formatted = generate_formatted_list(obj)
 intervals = get_interval_list(formatted)
 spliceaudio("E17SF01", intervals)
